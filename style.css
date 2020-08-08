@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    top: 100px;
+    position: relative;
+    user-select: none;
+}
+
+div#timer {
+    font-size: 100px;
+}
+
+button#start {
+    width: 100px;
+    height: 50px;
+}
+
+button#stop {
+    width: 100px;
+    height: 50px;
+}
+
+button#reset {
+    width: 100px;
+    height: 50px;
+}
+
+#justOne{
+    display: none;
+}
